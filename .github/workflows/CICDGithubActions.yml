@@ -1,9 +1,9 @@
-name: API Test via GitHub Actions
+name: Web Test via GitHub Actions
 
 on: {push}
 
 jobs:
-  testapi:
+  testweb:
 
     runs-on: ubuntu-latest
 
